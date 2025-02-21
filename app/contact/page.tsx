@@ -74,8 +74,8 @@ export default function ContactPage() {
             <div>
               <h3 className="font-bold mb-2">Our Office</h3>
               <p className="text-gray-600">
-                180 Upper Hill Street<br />
-                Nairobi, Nbi 10001<br />
+                Eastleigh 12 Street 00610,<br />
+                Nairobi,<br />
                 Kenya
               </p>
             </div>
