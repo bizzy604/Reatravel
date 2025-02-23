@@ -49,7 +49,7 @@ export function Footer() {
             <h3 className="text-lg font-semibold mb-4">Support</h3>
             <ul className="space-y-2">
               <li><Link href="/faq" className="text-gray-400 hover:text-white">FAQ</Link></li>
-              <li><Link href="/privacy" className="text-gray-400 hover:text-white">Privacy Policy</Link></li>
+              <li><Link href="/privacy-policy" className="text-gray-400 hover:text-white">Privacy Policy</Link></li>
               <li><Link href="/terms_conditions" className="text-gray-400 hover:text-white">Terms of Service</Link></li>
               <li><Link href="/contact" className="text-gray-400 hover:text-white">Customer Support</Link></li>
             </ul>

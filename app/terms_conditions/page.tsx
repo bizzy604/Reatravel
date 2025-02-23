@@ -61,7 +61,7 @@ export default function TermsAndConditions() {
             <h2 className="text-2xl font-semibold mb-4">1. Acceptance of Terms</h2>
             <div className="bg-white rounded-lg p-6 shadow-sm">
               <p>
-                Welcome to Travello. By accessing or using our website, mobile application, or any of our services, you
+                Welcome to Rea Travels. By accessing or using our website, mobile application, or any of our services, you
                 agree to comply with and be bound by these Terms and Conditions. If you do not agree to these terms, please
                 do not use our services.
               </p>
@@ -71,7 +71,7 @@ export default function TermsAndConditions() {
           <section className="mb-12">
             <h2 className="text-2xl font-semibold mb-4">2. Definitions</h2>
             <div className="bg-white rounded-lg p-6 shadow-sm space-y-4">
-              <p><strong>Travello:</strong> "Travello," "we," "us," or "our" refers to Travello Travel Agency.</p>
+              <p><strong>Travello:</strong> "Rea Travel," "we," "us," or "our" refers to Rea Travel Agency.</p>
               <p><strong>User:</strong> "You" or "your" refers to the user or viewer of our website or services.</p>
               <p><strong>Services:</strong> Refers to all travel-related services, including but not limited to bookings for flights,
                 accommodations, tours, and transportation.</p>
@@ -100,7 +100,7 @@ export default function TermsAndConditions() {
                 booking.
               </p>
               <p>
-                4.3. Travello reserves the right to charge an administrative fee for processing cancellations and refunds.
+                4.3. Rea Travel reserves the right to charge an administrative fee for processing cancellations and refunds.
               </p>
             </div>
           </section>
@@ -112,7 +112,7 @@ export default function TermsAndConditions() {
                 5.1. You are responsible for ensuring that you have all necessary travel documents, including valid
                 passports, visas, and health certificates.
               </p>
-              <p>5.2. Travello is not liable for any issues arising from inadequate or improper travel documentation.</p>
+              <p>5.2. Rea Travel is not liable for any issues arising from inadequate or improper travel documentation.</p>
             </div>
           </section>
 
@@ -120,7 +120,7 @@ export default function TermsAndConditions() {
             <h2 className="text-2xl font-semibold mb-4">6. Liability and Insurance</h2>
             <div className="bg-white rounded-lg p-6 shadow-sm space-y-4">
               <p>
-                6.1. Travello acts as an intermediary between you and service providers (airlines, hotels, tour operators,
+                6.1. Rea Travel acts as an intermediary between you and service providers (airlines, hotels, tour operators,
                 etc.) and is not liable for their actions or omissions.
               </p>
               <p>
@@ -145,7 +145,7 @@ export default function TermsAndConditions() {
             <h2 className="text-2xl font-semibold mb-4">8. Intellectual Property</h2>
             <div className="bg-white rounded-lg p-6 shadow-sm space-y-4">
               <p>
-                8.1. All content on our website and mobile application is the property of Travello or its content suppliers
+                8.1. All content on our website and mobile application is the property of Rea Travel or its content suppliers
                 and is protected by international copyright laws.
               </p>
             </div>
@@ -154,7 +154,7 @@ export default function TermsAndConditions() {
           <section className="mb-12">
             <h2 className="text-2xl font-semibold mb-4">9. Modifications to Services and Terms</h2>
             <div className="bg-white rounded-lg p-6 shadow-sm space-y-4">
-              <p>9.1. Travello reserves the right to modify or discontinue any part of its services without notice.</p>
+              <p>9.1. Rea Travel reserves the right to modify or discontinue any part of its services without notice.</p>
               <p>
                 9.2. We may update these Terms and Conditions from time to time. Continued use of our services after any
                 changes constitutes your acceptance of the new Terms and Conditions.
@@ -166,12 +166,12 @@ export default function TermsAndConditions() {
             <h2 className="text-2xl font-semibold mb-4">10. Governing Law and Jurisdiction</h2>
             <div className="bg-white rounded-lg p-6 shadow-sm space-y-4">
               <p>
-                10.1. These Terms and Conditions are governed by and construed in accordance with the laws of [Your
-                Country/State].
+                10.1. These Terms and Conditions are governed by and construed in accordance with the laws of Your
+                Country/State.
               </p>
               <p>
                 10.2. Any disputes arising from these terms will be subject to the exclusive jurisdiction of the courts in
-                [Your City/State].
+                Your City/State.
               </p>
             </div>
           </section>
