@@ -18,8 +18,8 @@ export function HeroSection() {
         <p className="text-xl text-white/90 mb-12 max-w-2xl">
           Find and book the best deals on flights to destinations worldwide. Your journey begins here.
         </p>
-        <div className="max-w-4xl w-full mx-auto bg-white/95 backdrop-blur-sm rounded-lg p-6">
-          <div className="p-4">
+        <div className="max-w-4xl w-full mx-auto bg-white/95 backdrop-blur-sm rounded-lg">
+          <div className="">
             <AviasalesWidget />
           </div>
         </div>

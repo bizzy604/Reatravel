@@ -30,7 +30,7 @@ export function AviasalesWidget() {
   return (
     <div 
       ref={containerRef}
-      className="w-full min-h-[300px] rounded-lg shadow-sm bg-white p-4"
+      className="w-full min-h-[300px] rounded-lg shadow-sm bg-white"
       style={{ minWidth: '320px' }}
     />
   );
