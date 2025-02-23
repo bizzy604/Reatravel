@@ -23,9 +23,10 @@ export function Navbar() {
     <nav className="bg-white shadow-sm fixed w-full z-50">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
-          <Link href="/" className="font-bold text-xl text-blue-600">
-            Reatravel Agency
-          </Link>
+            <Link href="/" className="flex items-center space-x-2">
+              <img src="/logo1.png" alt="Rea Travel Logo" className="h-15 w-12" />
+              <span className="font-bold text-2xl text-blue-600">Rea Travel</span>
+            </Link>
           
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8">

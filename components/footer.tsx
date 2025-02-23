@@ -9,8 +9,9 @@ export function Footer() {
           {/* Company Info */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <Plane className="h-6 w-6 text-blue-400" />
-              <span className="text-xl font-bold">Reatravel</span>
+              {/* <Plane className="h-6 w-6 text-blue-400" /> */}
+              <img src="/logo1.png" alt="Rea Travel Logo" className="h-15 w-12" />
+              <span className="text-xl font-bold">Rea Travel</span>
             </div>
             <p className="text-gray-400">
               Your trusted partner for discovering and booking amazing flight deals worldwide.
@@ -39,6 +40,7 @@ export function Footer() {
               <li><Link href="/flights" className="text-gray-400 hover:text-white">Find Flights</Link></li>
               <li><Link href="/destinations" className="text-gray-400 hover:text-white">Destinations</Link></li>
               <li><Link href="/contact" className="text-gray-400 hover:text-white">Contact</Link></li>
+              <li><Link href="/terms_conditions" className="text-gray-400 hover:text-white">Terms and Conditions</Link></li>
             </ul>
           </div>
 
@@ -48,8 +50,8 @@ export function Footer() {
             <ul className="space-y-2">
               <li><Link href="/faq" className="text-gray-400 hover:text-white">FAQ</Link></li>
               <li><Link href="/privacy" className="text-gray-400 hover:text-white">Privacy Policy</Link></li>
-              <li><Link href="/terms" className="text-gray-400 hover:text-white">Terms of Service</Link></li>
-              <li><Link href="/support" className="text-gray-400 hover:text-white">Customer Support</Link></li>
+              <li><Link href="/terms_conditions" className="text-gray-400 hover:text-white">Terms of Service</Link></li>
+              <li><Link href="/contact" className="text-gray-400 hover:text-white">Customer Support</Link></li>
             </ul>
           </div>
 
@@ -79,7 +81,7 @@ export function Footer() {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400">
-              © 2025 Reatravel Agency. All rights reserved.
+              © {new Date().getFullYear()} Reatravel Agency. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link href="#" className="text-gray-400 hover:text-white">
