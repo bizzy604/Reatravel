@@ -56,7 +56,7 @@ export function Footer() {
           </div>
 
           {/* Newsletter */}
-          <div>
+          {/* <div>
             <h3 className="text-lg font-semibold mb-4">Newsletter</h3>
             <p className="text-gray-400 mb-4">
               Subscribe to our newsletter for the latest travel deals and updates.
@@ -74,7 +74,7 @@ export function Footer() {
                 Subscribe
               </button>
             </form>
-          </div>
+          </div> */}
         </div>
 
         {/* Bottom Bar */}
